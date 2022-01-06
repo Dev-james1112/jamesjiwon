@@ -1,4 +1,4 @@
-### Hi there 👋
+<center>I am a student developer</center>
 
 <!--
 **jamesjiwon/jamesjiwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
